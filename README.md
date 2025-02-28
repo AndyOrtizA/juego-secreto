@@ -1,0 +1,1 @@
+<h1>Juego dinámico para adivinar un juego<h1>
